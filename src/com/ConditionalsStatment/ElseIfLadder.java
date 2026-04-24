@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ElseIfLadder {
 
 	public static void main(String[] args) {
-		System.out.println("Enter any six value for checking whichone is greater n larger");
+		System.out.println("Enter any six value");
 		int a,b,c,d,e,f;
 		Scanner sc = new Scanner(System.in);
 		a=sc.nextInt();
