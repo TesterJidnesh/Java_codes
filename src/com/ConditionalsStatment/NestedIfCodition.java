@@ -8,17 +8,11 @@ public class NestedIfCodition {
 		System.out.println("Enter a number");
 		int a,b,c,d,e,f;
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter a value of A");
 		a=sc.nextInt();
-		System.out.println("Enter a value of A");
 		b=sc.nextInt();
-		System.out.println("Enter a value of A");
 		c=sc.nextInt();
-		System.out.println("Enter a value of A");
 		d=sc.nextInt();
-		System.out.println("Enter a value of A");
 		e=sc.nextInt();
-		System.out.println("Enter a value of A");
 		f=sc.nextInt();
 
 		if(a>b)
